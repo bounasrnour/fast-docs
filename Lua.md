@@ -674,18 +674,6 @@ lua users % as an escape sequence in pattern matching
 
 
 
-### Things I need
-
-- player sprites ( I can use any sprite from itch for the demo and replace later)
-- ground tiles, obstacles, decorations
-- Idle, Run, Jump animations for the player
-- Dodge anim can be added later as the prototype can be a simple level
-- Menu UI (I guess this is the easiest as no animation needed)
-- portrait images if there is a dialog system
-- more sprites for the cutscenes 
-
-
-
 
 
 
